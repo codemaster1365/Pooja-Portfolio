@@ -1,0 +1,99 @@
+body{
+    background-color: #f4f1de;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 70px; 
+}
+.navbar{
+    background-color: #3d405b;}
+
+.nav-img{
+    height: 2rem;
+
+}
+#mainNav .nav-link{
+    color: white;
+}
+#mainNav .nav-link:hover{
+    background-color: white;
+    color: #3d405b;
+}
+#mainNav{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.display-1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+ h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #3d405b;
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+.card{
+    height:18rem;
+    width: 25rem;
+    margin: 2rem;
+}
+.card-img-top{
+    height:80%;
+   
+}
+.ebook{
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+}
+div .content-list{
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    color: #f4f1de;
+}
+.about-btn{
+    color: #f4f1de;
+}
+.list-group-item{
+    background-color: #3d405b;
+}
+.list-group-item.active { 
+    background-color: #f4f1de;
+    color: #3d405b;
+    border:1px solid #3d405b;
+}
+.eb-btn{
+    border: 1px solid #3d405b;
+    background-color: #f4f1de;
+    color: #3d405b;
+    font-weight:900;
+}
+.eb-btn:hover{
+    border: 1px solid #f4f1de;
+    background-color: #3d405b;
+    color: #f4f1de;
+}
+.form-ele{
+    border: 2px solid #3d405b;
+    
+}
+footer{
+    background-color: #3d405b;
+    padding: 3rem;
+    margin-bottom: 0 ;
+}
+.foot-link {
+    color: #f4f1de;
+    margin: auto;
+    font-size: 1.3rem;
+    
+}
+.foot-link-item{
+    color: #f4f1de;
+    margin: auto;
+    font-size: 1.3rem;
+    transition: all 300ms;
+}
+.foot-link-item:hover{
+    font-weight: 900;
+    color: #f4f1de;
+    transform: translateY(5px);
+}
